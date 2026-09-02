@@ -101,7 +101,8 @@ plt.axis('off')
 
 
 
-```<img width="550" height="389" alt="image" src="https://github.com/user-attachments/assets/25ad7050-e8dd-4491-b246-9ba25b445fb5" />
+```
+<img width="550" height="389" alt="image" src="https://github.com/user-attachments/assets/25ad7050-e8dd-4491-b246-9ba25b445fb5" />
 
 
 
